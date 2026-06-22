@@ -40,8 +40,8 @@ Installing new hard-wares and soft-wares in both the old and new server rooms.
 8.	The attachment has given me practical experience in the ICT industry, and I believe it will be instrumental in my future study and career planning. I have gained valuable skills that will help me in my future studies and have a competitive edge in the job market.
 9.	The tasks assigned to me were challenging and helped me develop new skills, and I was able to work with experienced professionals who provided guidance.
 10.	This experience has also given me insight into the industry, and I am now better equipped to make informed decisions about my future career. I believe that the skills and knowledge I have gained during the attachment will be beneficial as I work toward my degree and future employment opportunities.
-11.	Exchanged knowledge with my fellow Interns and also provide basic knowledge and skills to the computer illiterate end users.  
-12.	Acquired knowledge and skills in troubleshooting and configuring PC, Printers, and Photocopiers etc. 
+11.	Acquired knowledge and skills in troubleshooting and configuring PC, Printers, and Photocopiers etc.
+12.	Performed data analysis.
 
 # Challenges encountered during the internship
 i.	Exposure
